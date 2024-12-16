@@ -1,5 +1,5 @@
 # Pharmacy-management-system
-About The System
+About The System :
 The pharmacy management consists of PHP, JavaScript, Bootstrap, and CSS. Talking about the project, it contains an admin side section. All the management is done from the admin side like adding customers, medicines, suppliers to deleting their records. This project has only a single agenda, that is, to allow the shop owner to maintain his business efficiently. Here you have to sign up in order to perform the CRUD operations. When you sign up then you can view the admin dashboard. From there you can manage all the necessary activities.
 
 Features:
