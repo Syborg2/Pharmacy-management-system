@@ -1,8 +1,8 @@
-# Pharmacy-management-system
+<h1 align="center">Pharmacy-management-system</h1>
 About The System :
 The pharmacy management consists of PHP, JavaScript, Bootstrap, and CSS. Talking about the project, it contains an admin side section. All the management is done from the admin side like adding customers, medicines, suppliers to deleting their records. This project has only a single agenda, that is, to allow the shop owner to maintain his business efficiently. Here you have to sign up in order to perform the CRUD operations. When you sign up then you can view the admin dashboard. From there you can manage all the necessary activities.
 
-Features:
+# Features:
 * View Dashboard
 * See all Customers, Add customer, Edit customer, Delete customer
 * View all Medicines, Add medicines, Edit medicines, Delete medicines
@@ -11,9 +11,9 @@ Features:
 * See all Purchases, Add Purchase, Edit Purchase, Delete Purchase
 * View Sales and purchase report
 
-Login Details:
-  Username: admin
-  Password: admin123
+# Login Details:
+- Username: admin
+- Password: admin123
 
 How To Run Project?
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Pharmacy Management in PHP with source code is free to download, Use for educational purposes only!
